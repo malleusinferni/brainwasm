@@ -1,0 +1,9 @@
+[package]
+name = "brainwasm"
+version = "0.1.0"
+
+[dependencies]
+failure = "0.1.1"
+failure_derive = "0.1.1"
+parity-wasm = "0.31.0"
+structopt = "0.2.10"
